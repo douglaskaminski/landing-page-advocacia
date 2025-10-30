@@ -11,17 +11,17 @@ Landing Page completa e responsiva para escritório de advocacia especializado e
 
 \## 🌐 Demo Online
 
-\*\*\[Visualizar Landing Page](https://douglaskaminski.github.io/landing-page-advocacia/)\*\*
+**[Visualizar Landing Page](https://douglaskaminski.github.io/landing-page-advocacia/)**
 
 \### Desktop
 
-!\[Hero Section](screenshots/hero-desktop.png)
+![Hero Section](screenshots/hero-desktop.png)
 
 \*Seção Hero com call-to-action impactante\*
 
 
 
-!\[Equipe](screenshots/equipe-desktop.png)
+![Equipe](screenshots/equipe-desktop.png)
 
 \*Apresentação da equipe de advogados\*
 
@@ -29,7 +29,7 @@ Landing Page completa e responsiva para escritório de advocacia especializado e
 
 \### Mobile
 
-!\[Versão Mobile](screenshots/mobile-responsive.jpg)
+![Versão Mobile](screenshots/mobile-responsive.jpg)
 
 \*Design totalmente responsivo\*
 
