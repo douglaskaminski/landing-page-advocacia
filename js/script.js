@@ -301,14 +301,6 @@ if (formContato) {
         lastSubmitTime = now;
     });
 }
-
-// ========================================
-// CONSOLE LOG (remover em produção)
-// ========================================
-console.log('%c🏛️ DKL Advogados', 'font-size: 20px; font-weight: bold; color: #c9a961;');
-console.log('%cWebsite desenvolvido por Douglas Kaminski', 'color: #1a2332;');
-console.log('%cPortfólio: https://douglaskaminski.github.io/portfolio', 'color: #c9a961;');
-
 // ========================================
 // INICIALIZAÇÃO
 // ========================================
