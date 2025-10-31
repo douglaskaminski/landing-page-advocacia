@@ -545,13 +545,13 @@ Substitua as imagens na pasta `img/` mantendo os mesmos nomes ou atualize os cam
 
 \*\*Douglas Kaminski\*\*
 
-\- 🌐 Portfolio: \[douglaskaminski.github.io/portfolio](https://douglaskaminski.github.io/portfolio/)
+\- 🌐 Portfolio: https://douglaskaminski.github.io/portfolio/
 
-\- 💼 GitHub: \[@douglaskaminski](https://github.com/douglaskaminski)
+\- 💼 GitHub: https://github.com/douglaskaminski
 
-\- 📧 Email: contato@douglaskaminski.dev
+\- 📧 Email: dklwork37@gmail.com
 
-\- 🔗 LinkedIn: \[Douglas Kaminski](https://linkedin.com/in/douglaskaminski)
+\- 🔗 LinkedIn: https://linkedin.com/in/douglaskaminski
 
 
 
